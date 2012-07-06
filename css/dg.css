@@ -1,0 +1,37 @@
+	table.dg {
+		border:1px solid #000;
+		border-collapse:collapse;
+		font-family:arial,sans-serif;
+		font-size:72%;
+		background:white;
+	}
+	td.cellleft{
+		border:1px solid #000;
+		border-collapse:collapse;
+		padding:5px;
+		text-align:left;
+		white-space: nowrap;
+	}	
+	td.cellright{
+		border:1px solid #000;
+		border-collapse:collapse;
+		padding:5px;
+		text-align:right;
+		white-space: nowrap;
+	}	
+	td.cellcenter{
+		border:1px solid #000;
+		border-collapse:collapse;
+		padding:5px;
+		white-space: nowrap;
+		text-align:center;
+	}
+	.dgHd{
+	 border-bottom: 2px solid #000;
+	 background-color: #64B2F0;
+	 text-align: center;
+	 font-family: Verdana;
+	 font-weight: bold;
+	 font-size: 11px;
+	 color: white;}
+	
