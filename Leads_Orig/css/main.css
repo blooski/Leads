@@ -1,0 +1,62 @@
+body
+{
+	background:#CDDCEC;
+}
+#top
+{
+	display:block;
+	height:10px;
+	margin:0px auto 0;
+	width:740px;
+}
+#logo
+{
+ 	margin-left:20px;
+}
+#form_container
+{
+	background:#fff;
+	
+	margin:0 auto;
+	text-align:left;
+	width:738px;
+}
+#note_container
+{
+	background:#fff;
+}
+#title
+{
+ 	margin-left:10px;
+}
+#footer
+{
+	font-size:100%;
+	font-weight:bold;
+	text-align:center;
+	color:#64B2F0;
+	width:100%;
+}
+h2
+{
+ 	margin-left:20px;
+	text-align:left;
+}
+h3
+{
+ 	margin-left:10px;
+	color:Navy;	
+}
+textarea {
+ 	border: thin solid black;
+ 	padding:2px;
+ 	margin:1px;
+	width: 98%;
+}
+input.buttons
+{
+	font-size:90%;
+	background-color:#D5E9F6;
+ 	padding:2px;
+ 	margin:4px;
+}

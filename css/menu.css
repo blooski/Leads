@@ -27,7 +27,7 @@ padding: 0;
 float: left;
 position: relative;
 top: 5px; /* 1) Number of pixels to protrude up for selected tab. Should equal (3) MINUS (2) below */
-background: url(../images/tab-blue-left.gif) no-repeat left top;
+/* background: url(images/tab-blue-left.gif) no-repeat left top; */
 margin: 0;
 margin-right: 3px; /*Spacing between each tab*/
 padding: 0 0 0 9px;

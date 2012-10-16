@@ -19,7 +19,7 @@ body
 	
 	margin:0 auto;
 	text-align:left;
-	width:738px;
+	width:773px;
 }
 #note_container
 {
@@ -45,7 +45,8 @@ h2
 h3
 {
  	margin-left:10px;
-	color:Navy;	
+	color:Navy;
+	padding-right:20px;
 }
 textarea {
  	border: thin solid black;
